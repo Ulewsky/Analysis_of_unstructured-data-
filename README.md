@@ -55,9 +55,41 @@ components.
 5. Beside of standard plots, please visualize sth on map.
 6. Remember to comment your results.
 
+## Assignment 4
 
+Using Google YouTube API analyze two channels' data. You should investigate:
+
+ 1. Users stats
+ 2. Videos Stats
+ 3. Two selected video stats
+
+Channels requirements:
+ * Please select channels which are not new (has data) and publish videos not occasionally
+ * For 2nd point, please analyze data for all users videos (e.g. Views in time)
+ * For 3rd point, please select one video for each user and analyze it (e.g. In case of
+comment sentiments)
+
+Please provide the following information:
+* Links to channels
+* describe the channels published content (area)
+* tell why you selected these channels
+* tell why you compere selected videos
+* indicate the differences and similarities between channels (in the analysis)
 
 ## Assignment 5
-Download the novel “Around the world in 80 days” by J. Verne from Project
-Gutenberg website. Find all cities visited by Phileas Fogg, the protagonist of
-the novel. Draw the path of his journey on a world map.
+Download the novel “Around the world in 80 days” by J. Verne from the Project
+Gutenberg website.
+
+1. Find all cities visited by Phileas Fogg, the protagonist of the novel.
+2. Find = use Python code **NOT WIKIPEDIA**
+3. Draw the path of his journey on a world map.
+4. Compare the results with Wikipedia and try to find the reason why your
+code did not return all of them (you can adjust the code and be more
+accurate).
+5. Visualize the character mentions per page/chapter
+6. Find the top 20 keywords in book/chapter - you can also check the most
+popular words in case of part of the speech
+7. Visualization sentiment per page/chapter (you can use different algorithms
+for sentiment)
+8. Visualize graph of co-occurrences (defined as mentions on the same
+page).
